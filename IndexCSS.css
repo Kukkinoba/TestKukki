@@ -1,0 +1,42 @@
+/*
+	Colors: 
+	Dark Purple - #2D2436
+*/
+
+/*Everything considering the header*/
+#TextLogo{
+	width:15%;
+	Height:15%;
+}
+
+
+
+header a:link { 
+	text-decoration: none; 
+}
+
+
+
+header a:visited { 
+	text-decoration: none; 
+}
+
+
+
+header a:hover { 
+	text-decoration: none; 
+	cursor:pointer;
+}
+
+
+
+header a:active { 
+	text-decoration: none;
+}
+
+
+
+/*Everything considering the body and each section*/
+body{
+	background-color:#2D2436;
+}
